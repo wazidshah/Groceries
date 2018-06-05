@@ -1,2 +1,2 @@
 # Groceries
-A Simple Groceries app using Native Script for Android and IOS
+A Simple Groceries app using Native Script and Angularjs for Android and IOS.
